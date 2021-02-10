@@ -1,2 +1,27 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 == ReadMe Project
 This is a test of using AsciiDoc for creating readme files in our projects.
+
+Preparation
+-----------
+
+[NOTE]
+====
+A sample note admonition.
+We can add notes and other admonitions to the document that use gemoji icons. The section at the top of the document assigns the icons. Look at the lines that begin `tip-caption`, `note-caption`, etc.
+====
+
+TIP: It works!
+
+IMPORTANT: Asciidoctor is awesome, don't forget!
+
+CAUTION: Don't forget to add the `...-caption` document attributes in the header of the document on GitHub.
+
+WARNING: You have no reason not to use Asciidoctor.
