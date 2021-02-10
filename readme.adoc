@@ -1,0 +1,2 @@
+== ReadMe Project
+This is a test of using AsciiDoc for creating readme files in our projects.
