@@ -5,9 +5,13 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
+:toc: left
+:toclevels: 3
 
 = ReadMe Project
 This is a test of using AsciiDoc for creating readme files in our projects.
+
+:toc!:
 
 == AWS SDK for .NET Documentation Examples
 
@@ -17,10 +21,10 @@ This is a collection of code examples for the AWS SDK for .NET public documentat
 
 To build and run the code examples in this collection, you need the following:
 
-- The AWS SDK for .NET. For more information, see the [AWS SDK for .NET
-Developer Guide](https://docs.aws.amazon.com/sdk-for-net/latest/developer-guide).
+- The AWS SDK for .NET. For more information, see the https://docs.aws.amazon.com/sdk-for-net/latest/developer-guide[AWS SDK for .NET
+Developer Guide].
 
-- AWS credentials, either configured in a local AWS credentials file, or by setting the AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables.  For more information, see the [AWS Tools and SDKs Shared Configuration and Credentials Reference Guide](https://docs.aws.amazon.com/credref/latest/refdocs/overview.html).
+- AWS credentials, either configured in a local AWS credentials file, or by setting the AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables.  For more information, see the https://docs.aws.amazon.com/credref/latest/refdocs/overview.html[AWS Tools and SDKs Shared Configuration and Credentials Reference Guide].
 
 == Building and running the code examples
 
@@ -38,7 +42,7 @@ To build and run a code example, follow the instructions in the README file for 
 All of the code example projects have a companion unit test,
 where the name of the unit test project is the same as the tested project, with a **Test** suffix.
 
-We use [Xunit](https://xunit.net/) as the framework for our unit tests and, in most cases, use [moq4](https://github.com/moq/moq4) to create unit tests with mocked objects.
+We use https://xunit.net/[Xunit] as the framework for our unit tests and, in most cases, use https://github.com/moq/moq4[moq4] to create unit tests with mocked objects.
 
 You can create an Xunit project and install the **moq** Nuget package in that project with the following commands:
 
@@ -131,8 +135,8 @@ dotnet test -l "console;verbosity=detailed"
 All content in this repository, unless otherwise stated, is 
 Copyright © Amazon Web Services, Inc. or its affiliates. All rights reserved.
 
-Except where otherwise noted, all examples in this collection are licensed under the [Apache
-license, version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (the "License"). The full
+Except where otherwise noted, all examples in this collection are licensed under the https://www.apache.org/licenses/LICENSE-2.0[Apache
+license, version 2.0] (the "License"). The full
 license text is provided in the `LICENSE` file accompanying this repository.
 
 == Other AsciiDoc Features
@@ -150,4 +154,4 @@ IMPORTANT: Existing README.md files can be converted with a simple extension cha
 
 CAUTION: Don't forget to add the `...-caption` document attributes in the header of the document on GitHub.
 
-WARNING: Not sure if we can customize the icons to our own specifications.
+TIP: The icons and other look and feel issues can be customized using themes.
