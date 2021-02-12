@@ -5,13 +5,13 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
-:toc: left
-:toclevels: 3
+:toc:
+:toc-placement!:
 
 = ReadMe Project
 This is a test of using AsciiDoc for creating readme files in our projects.
 
-:toc!:
+toc::[]
 
 == AWS SDK for .NET Documentation Examples
 
