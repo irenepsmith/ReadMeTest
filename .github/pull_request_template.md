@@ -15,4 +15,4 @@ information about submitting pull requests to this repository, see [Guidelines f
 
 - [ ] Metada has been added as necessary. (Should we add information about this somewhere?)
 
-- [ ] By submitting this pull request, I confirm that my contribution is made under the terms of the Apache 2.0 license.
+_By submitting this pull request, I confirm that my contribution is made under the terms of the Apache 2.0 license._
