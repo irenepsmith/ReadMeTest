@@ -1,4 +1,7 @@
-- [ ] The default copyright notice appears all files.
+Thank you for making a submission to the **aws-doc-sdk-examples** repository. For more
+information about submitting pull requests to this repository, see [Guidelines for contributing](CONTRIBUTING.md)
+
+- [ ] The default copyright notice appears in all files.
 
 - [ ] Unit tests have been created for all code paths and they all pass.
 
