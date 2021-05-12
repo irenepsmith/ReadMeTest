@@ -1,3 +1,12 @@
+---
+name: Pull Request
+about: Update Existing Code Example
+title: "[UPDATED EXAMPLE] <<Language>> <<Service>> <<Description of Examples>>"
+labels: ''
+assignees: ''
+
+---
+
 This PR is a fix for an existing example.
 
 Issue # if applicable:

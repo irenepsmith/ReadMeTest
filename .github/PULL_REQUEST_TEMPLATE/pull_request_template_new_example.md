@@ -1,3 +1,12 @@
+---
+name: Pull Request
+about: Add new Code Example to Catalog
+title: "[NEW EXAMPLE] <<Language>> <<Service>> <<Description of Examples>>"
+labels: ''
+assignees: ''
+
+---
+
 Thank you for making a submission to the **aws-doc-sdk-examples** repository. For more
 information about submitting pull requests to this repository, see [Guidelines for contributing](CONTRIBUTING.md)
 

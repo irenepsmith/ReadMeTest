@@ -1,6 +1,6 @@
 ---
 name: Pull Request
-about: Add new Code Examples to Catalog
+about: Add new Code Example to Catalog
 title: "[NEW EXAMPLE] <<Language>> <<Service>> <<Description of Examples>>"
 labels: ''
 assignees: ''
