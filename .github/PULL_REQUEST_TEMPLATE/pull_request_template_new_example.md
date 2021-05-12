@@ -13,6 +13,6 @@ information about submitting pull requests to this repository, see [Guidelines f
 
 - [ ] All comments and strings have been reviewed, and the submitter has incorporated any and all suggested edits.
 
-- [ ] Metada has been added as necessary. (Should we add information about this somewhere?)
+- [ ] Metadata has been added as necessary.
 
 _By submitting this pull request, I confirm that my contribution is made under the terms of the Apache 2.0 license._
