@@ -1,5 +1,5 @@
 ---
-name: Pull Request
+name: Pull Request Update Example
 about: Update Existing Code Example
 title: "[UPDATED EXAMPLE] <<Language>> <<Service>> <<Description of Examples>>"
 labels: ''

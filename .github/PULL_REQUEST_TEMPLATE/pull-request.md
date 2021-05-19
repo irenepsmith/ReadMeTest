@@ -50,7 +50,7 @@ Please answer the following questions about the examples submitted to help us pr
 **Did you add the metadata as described above?**
 
 
-**How were these examples tested?**
+**How was the code in this example tested?**
 
 
 **If necessary, how do I build/compile the example?**
@@ -59,7 +59,7 @@ Please answer the following questions about the examples submitted to help us pr
 **If necessary, how do I run the example?**
 
 
-**Are there any required inputs?**
+**Are there any required inputs? (i.e. command line parameters)**
 
 
 **What output should I expect?**
